@@ -1,5 +1,6 @@
 import numpy as np
 import scipy as sp
+import scipy.cluster
 from scipy.spatial.distance import pdist
 from numba import jit
 import sklearn
